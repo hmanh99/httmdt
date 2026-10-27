@@ -1,0 +1,398 @@
+[     224ms] [INFO] %cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools font-weight:bold @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:21550
+[     305ms] [WARNING] ⚠️ React Router Future Flag Warning: React Router will begin wrapping state updates in `React.startTransition` in v7. You can use the `v7_startTransition` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_starttransition. @ http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4416
+[     305ms] [WARNING] ⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath. @ http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4416
+[     502ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     505ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     505ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     505ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     505ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     506ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     506ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     506ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     510ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     510ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     510ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     511ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     511ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     511ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     511ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     511ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3699:24)
+    at invokeGuardedCallback (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:3733:39)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19765:15)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+[     514ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     515ms] [ERROR] The above error occurred in the <ProductCard> component:
+
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:19:31)
+    at div
+    at section
+    at div
+    at HomePage (http://localhost:5173/src/pages/storefront/HomePage.tsx:25:66)
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Outlet (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4518:26)
+    at main
+    at div
+    at StorefrontLayout
+    at RenderedRoute (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4112:5)
+    at Routes (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4582:5)
+    at AppRoutes
+    at Router (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:4525:15)
+    at BrowserRouter (http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=4638b9a8:5263:5)
+    at QueryClientProvider (http://localhost:5173/node_modules/.vite/deps/@tanstack_react-query.js?v=e5aae724:26:30)
+    at MotionWrapper (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5625:32)
+    at ProviderChildren (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:5733:5)
+    at ConfigProvider (http://localhost:5173/node_modules/.vite/deps/antd.js?v=57060abc:6024:27)
+    at StyleProvider2 (http://localhost:5173/node_modules/.vite/deps/chunk-S4ZMEBJ5.js?v=7ece36f2:547:24)
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries. @ http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14031
+[     516ms] TypeError: product.base_price.toFixed is not a function
+    at ProductCard (http://localhost:5173/src/components/product/ProductCard.tsx:166:30)
+    at renderWithHooks (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:11548:26)
+    at mountIndeterminateComponent (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:14926:21)
+    at beginWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:15914:22)
+    at beginWork$1 (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19753:22)
+    at performUnitOfWork (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19198:20)
+    at workLoopSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19137:13)
+    at renderRootSync (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:19116:15)
+    at recoverFromConcurrentError (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:18736:28)
+    at performSyncWorkOnRoot (http://localhost:5173/node_modules/.vite/deps/chunk-WERSD76P.js?v=7ece36f2:18879:28)
